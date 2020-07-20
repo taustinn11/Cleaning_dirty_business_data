@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Prototype code document
+clean_data_practice.Rmd
+
+# Solution that is not mine (from friend - used for reference)
+solutions_Rfiles/*forTAN.R
